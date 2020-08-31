@@ -5,11 +5,11 @@ Completed the Inventory Allocator challenge using C++
 
 ## Compiling and Running
 ```sh
+git clone https://github.com/siddharthgarg4/recruiting-exercises.git
 cd recruiting-exercises/inventory-allocator
 g++ -std=c++14 -Wall main.cpp InventoryAllocator.cpp UnitTests.cpp -o InventoryAllocator ; ./InventoryAllocator
 ```
-
-moves to the inventory allocator folder to where the files are stored, compiling the files into an exe and then running the exe to run the tests. 
+clones the current repository and moves to the inventory allocator folder to where the files are stored, compiling the files into an exe and then running the exe to run the tests. 
 
 ## Description
 
